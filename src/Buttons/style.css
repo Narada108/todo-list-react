@@ -1,0 +1,31 @@
+.section__buttons {
+    margin: 0 20px;
+    display: flex;
+}
+
+@media(max-width: 767px) {
+    .section__buttons {
+        flex-direction: column;
+        margin: 10px 0;
+    }
+}
+
+.section__buttonElement {
+    border: none;
+    background-color: #fff;
+    color: hsl(180, 100%, 30%);
+    transition: color 1s;
+}
+
+.section__buttonElement:hover {
+    color: hsl(180, 100%, 40%);
+}
+
+.section__headerAndButtons .section__header {
+    border-bottom: none;
+
+}
+
+.section__makeAllDone:disabled {
+    color: rgb(151, 146, 146);
+}
