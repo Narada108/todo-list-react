@@ -1,6 +1,20 @@
-# Task list
+# Tasks-list
 
-Description
+## This is my to-do-list
+![to-do-list](https://github.com/Narada108/Modul7/blob/main/images/modul7.gif?raw=true)
+## Description
+In this project, you can write things to do, which are save on the list below. From this list you can mark whether a given item is already done and you can remove items from the list. Also you can hide the done tasks with a button and press another button to mark all tasks done.
+## Website:
+https://narada108.github.io/todo-list-react/
+## Technologies I have used:
+- HTML
+- CSS
+- JS
+- BEM
+- Grid
+- Flex
+- React
+- Node.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
